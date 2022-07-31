@@ -1,4 +1,4 @@
-# spotify
+
 Spotify clone using HTML, JS, CSS
 
 Runs @ http://127.0.0.1:5500/
